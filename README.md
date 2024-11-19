@@ -150,8 +150,6 @@ VITE_CONTACT_EMAIL=contact@example.com
 
 
 
-.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - Design inspiration from modern architecture firms
