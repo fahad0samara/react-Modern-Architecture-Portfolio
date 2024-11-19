@@ -1,6 +1,7 @@
 # Evergreen Architex - Modern Architecture Portfolio
 
-![Evergreen Architex](https://images.unsplash.com/photo-1600585154340-be6161a56a0c)
+
+![screencapture-localhost-5173-2024-11-19-09_50_49](https://github.com/user-attachments/assets/040c61ef-4f74-4352-8355-ebbb010aa8c0)
 
 A sophisticated, enterprise-grade architecture portfolio website built with React, TypeScript, and Tailwind CSS. This application showcases modern web development best practices, including clean architecture, performance optimization, and accessibility compliance.
 
